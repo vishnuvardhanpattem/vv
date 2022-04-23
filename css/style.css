@@ -1,0 +1,80 @@
+body{
+  background-color: #EAF6F6;
+  font-family: serif;
+  padding-top: 100px;
+  text-align: center;
+}
+.cloud_1{
+  bottom:500px;
+  left:1100px;
+  position: absolute;
+}
+.cloud_2{
+  left: 250px;
+  position:absolute;
+}
+.mountain{
+  width:50%;
+}
+h1{
+  color: #66BFBF;
+  font-family: Sacramento,sans-serif;
+  font-size: 50px;
+  margin-top: 50px;
+}
+h2{
+  color: #66BFBF;
+  font-weight: bold;
+  font-family: Montserrat;
+}
+h3{
+  color: #66BFBF;
+  font-family: Montserrat;
+  font-weight: bold;
+}
+p{
+  margin: 0 auto;
+  line-height: 2;
+}
+.interest{
+  width:40%;
+  text-align: justify;
+  l
+}
+hr{
+  border: 8px dotted #EEF6F6 ;
+  border-bottom: none;
+  margin: 50px auto;
+  width:7%;
+
+}
+.profile{
+  margin: 50px auto;
+  border-radius: 45%;
+  width:140px;
+}
+.middle_container{
+padding-top: 25px;
+background: #FFFBE7;
+margin-top: 50px;
+}
+.skills{
+  margin-top: 80px;
+  margin-bottom: 80px;
+
+}
+.computer{
+  width: 150px;
+  height:450px;
+  border-radius: 100px;
+
+}
+.chillies{
+  width: 150px;
+  height:150px;
+  float:right;
+  position:relative;
+  bottom: 95px;
+  right: 200px;
+
+}
